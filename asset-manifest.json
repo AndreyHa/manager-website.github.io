@@ -1,13 +1,41 @@
 {
   "files": {
-    "main.css": "/static/css/main.fb5d70fa.css",
-    "main.js": "/static/js/main.61ef7fd6.js",
+    "main.css": "/static/css/main.29d7e27e.chunk.css",
+    "main.js": "/static/js/main.eeda135d.chunk.js",
+    "main.js.map": "/static/js/main.eeda135d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.75f16432.js",
+    "runtime-main.js.map": "/static/js/runtime-main.75f16432.js.map",
+    "static/css/2.9e72fa9c.chunk.css": "/static/css/2.9e72fa9c.chunk.css",
+    "static/js/2.49bee356.chunk.js": "/static/js/2.49bee356.chunk.js",
+    "static/js/2.49bee356.chunk.js.map": "/static/js/2.49bee356.chunk.js.map",
     "index.html": "/index.html",
-    "main.fb5d70fa.css.map": "/static/css/main.fb5d70fa.css.map",
-    "main.61ef7fd6.js.map": "/static/js/main.61ef7fd6.js.map"
+    "static/css/2.9e72fa9c.chunk.css.map": "/static/css/2.9e72fa9c.chunk.css.map",
+    "static/css/main.29d7e27e.chunk.css.map": "/static/css/main.29d7e27e.chunk.css.map",
+    "static/js/2.49bee356.chunk.js.LICENSE.txt": "/static/js/2.49bee356.chunk.js.LICENSE.txt",
+    "static/media/11.b3a7cd9c.png": "/static/media/11.b3a7cd9c.png",
+    "static/media/4.7c260fdc.png": "/static/media/4.7c260fdc.png",
+    "static/media/5.c1dad308.png": "/static/media/5.c1dad308.png",
+    "static/media/6.428f71c8.png": "/static/media/6.428f71c8.png",
+    "static/media/7.dbb3ec26.png": "/static/media/7.dbb3ec26.png",
+    "static/media/am.c72ab47a.png": "/static/media/am.c72ab47a.png",
+    "static/media/back.381b30eb.jpg": "/static/media/back.381b30eb.jpg",
+    "static/media/back2.496560db.jpg": "/static/media/back2.496560db.jpg",
+    "static/media/back3.e9460529.jpg": "/static/media/back3.e9460529.jpg",
+    "static/media/back4.255c7027.jpg": "/static/media/back4.255c7027.jpg",
+    "static/media/back5.5ddc7395.jpg": "/static/media/back5.5ddc7395.jpg",
+    "static/media/backBottom2.9881e3ef.jpg": "/static/media/backBottom2.9881e3ef.jpg",
+    "static/media/background.07dca056.jpg": "/static/media/background.07dca056.jpg",
+    "static/media/bounty-rune.0d363261.png": "/static/media/bounty-rune.0d363261.png",
+    "static/media/semantic.min.css": "/static/media/outline-icons.ddae9b1b.woff",
+    "static/media/getFetch.cjs": "/static/media/getFetch.582d29c4.cjs",
+    "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf",
+    "static/media/void_spirit.4667a49f.png": "/static/media/void_spirit.4667a49f.png"
   },
   "entrypoints": [
-    "static/css/main.fb5d70fa.css",
-    "static/js/main.61ef7fd6.js"
+    "static/js/runtime-main.75f16432.js",
+    "static/css/2.9e72fa9c.chunk.css",
+    "static/js/2.49bee356.chunk.js",
+    "static/css/main.29d7e27e.chunk.css",
+    "static/js/main.eeda135d.chunk.js"
   ]
 }
